@@ -2,8 +2,7 @@
 题目链接：https://www.acwing.com/problem/content/description/106/
 */
 
-/* 
-题目内容：
+/* 题目内容：
 在一条数轴上有 N 家商店，它们的坐标分别为 A1~AN。
 
 现在需要在数轴上建立一家货仓，每天清晨，从货仓到每家商店都要运送一车商品。
@@ -26,6 +25,11 @@
 6 2 9 1
 输出样例：
 12 
+*/
+
+/*扩展题目：
+一维变二维：[3167.星星还是树] https://www.acwing.com/problem/content/3170/
+一维变多维：模拟退火算法
 */
 
 #include<iostream>
