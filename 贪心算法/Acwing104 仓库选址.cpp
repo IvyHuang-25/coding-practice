@@ -29,6 +29,7 @@
 
 /*扩展题目：
 一维变二维：[3167.星星还是树] https://www.acwing.com/problem/content/3170/
+		            解题：https://github.com/IvyHuang-25/coding-practice/blob/main/%E4%BA%8C%E5%88%86%E6%B3%95/%E4%B8%89%E5%88%86%E6%B3%95/Acwing3167%20%E6%98%9F%E6%98%9F%E8%BF%98%E6%98%AF%E6%A0%91.cpp
 一维变多维：模拟退火算法
 */
 
